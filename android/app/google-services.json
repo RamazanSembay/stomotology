@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "346180605021",
+    "project_id": "stomotology-c2fea",
+    "storage_bucket": "stomotology-c2fea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346180605021:android:ad3a28cf4253aa535669b4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346180605021-l6mdr0o0keiht63v4ei8m0v906tbhm34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQIXcDqx8Cnxv9TepCwdshKyQEAd_X5lI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346180605021-l6mdr0o0keiht63v4ei8m0v906tbhm34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346180605021:android:5da5dd40e15725ab5669b4",
+        "android_client_info": {
+          "package_name": "com.example.stomotology"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346180605021-l6mdr0o0keiht63v4ei8m0v906tbhm34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQIXcDqx8Cnxv9TepCwdshKyQEAd_X5lI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346180605021-l6mdr0o0keiht63v4ei8m0v906tbhm34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

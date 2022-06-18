@@ -1,0 +1,58 @@
+name: stomotology
+description: A new Flutter project.
+
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: any
+  google_fonts: any
+  flutter_svg: any
+  firebase_auth: ^0.18.0+1
+  cloud_firestore: ^0.14.0+2
+  provider: any
+  firebase_core: any
+  firebase_storage: any
+  image_picker: any
+  get: any
+  flutter_swiper: any
+  carousel_slider: ^4.0.0
+  youtube_player_flutter: ^8.0.0
+  flutter_staggered_grid_view: any
+  staggered_grid_view_flutter: any
+  flutter_neumorphic: any
+  fl_chart: any
+  email_validator: ^2.0.1
+  animate_do: ^2.1.0
+  flutter_easyloading: ^3.0.3
+  flutter_custom_clippers: ^2.0.0
+  xfile: ^1.1.0
+  random_string: any
+  cached_network_image: ^2.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/images/
+    - assets/svg/
+
+  # fonts:
+  #   - family: Roboto
+  #     fonts:
+  #       - asset: fonts/Roboto-Regular.ttf
+  #       - asset: fonts/Roboto-Medium.ttf
+  #       - asset: fonts/Roboto-Bold.ttf
